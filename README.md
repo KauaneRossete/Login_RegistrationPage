@@ -13,3 +13,7 @@ Interface de cadastro e l    desenvolvida com HTML e CSS. Esse projeto tem como 
 
 - Interface de Cadastro, Login e recuperação de senha com HTML e CSS
 
+
+Visualize o projeto em:
+https://kauanerossete.github.io/Login_RegistrationPage/home.html
+
